@@ -1,0 +1,119 @@
+{
+  "fields": [
+    {
+      "id": "opdrachtgever",
+      "label": "Opdrachtgever",
+      "page": 0,
+      "x": 221,
+      "y": 1011,
+      "color": "#ffffff",
+      "fontSize": 13,
+      "fontWeight": "700"
+    },
+    {
+      "id": "locatie",
+      "label": "Locatie",
+      "page": 0,
+      "x": 222,
+      "y": 1045,
+      "color": "#ffffff",
+      "fontSize": 12,
+      "fontWeight": "600"
+    },
+    {
+      "id": "contactpersoon",
+      "label": "Contactpersoon",
+      "page": 0,
+      "x": 222,
+      "y": 1067,
+      "color": "#ffffff",
+      "fontSize": 12,
+      "fontWeight": "600"
+    },
+    {
+      "id": "marketingkosten",
+      "label": "Marketingkosten",
+      "page": 2,
+      "x": 205,
+      "y": 178,
+      "color": "#059669",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "aantalvacatures",
+      "label": "Aantal vacatures",
+      "page": 2,
+      "x": 256,
+      "y": 232,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "400"
+    },
+    {
+      "id": "totalekosten",
+      "label": "Totale kosten",
+      "page": 2,
+      "x": 544,
+      "y": 233,
+      "color": "#1e293b",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "overnameuren",
+      "label": "Overname na",
+      "page": 2,
+      "x": 325,
+      "y": 473,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "factor",
+      "label": "Factor",
+      "page": 2,
+      "x": 237,
+      "y": 543,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "percentagesalaris",
+      "label": "% bruto jaarsalaris",
+      "page": 2,
+      "x": 297,
+      "y": 820,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "factuurstart",
+      "label": "% bij start",
+      "page": 2,
+      "x": 131,
+      "y": 838,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "700"
+    },
+    {
+      "id": "factuurproef",
+      "label": "% na proefmaand",
+      "page": 2,
+      "x": 215,
+      "y": 838,
+      "color": "#374151",
+      "fontSize": 12,
+      "fontWeight": "700"
+    }
+  ],
+  "logoPos": {
+    "x": 573,
+    "y": 975,
+    "size": 130
+  }
+}
